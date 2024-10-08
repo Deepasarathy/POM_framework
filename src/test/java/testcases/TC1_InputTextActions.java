@@ -55,7 +55,7 @@ public class TC1_InputTextActions extends CommonTC
 		cleartheText();
 		checkFieldisDisabled();
 		checkTextReadonly();
-	
+		System.out.println("branch change");
 	}
 	
 	
